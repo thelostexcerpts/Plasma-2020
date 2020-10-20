@@ -56,4 +56,90 @@ The first assignment is here. We're made to derive Linear Dispersion Relations, 
 
 ### July 11, 2020
 
-I couldn't figure out how to solve those assignments. I asked Shashank about a point that, I doubt, I wasn't able to grasp. Ohhh... the pieces fell into their respective places. Flashback of Quantum Harmonic Oscillator starts. After a small discussion with Shashank, I was able to solve the normalization assignment quite easily (although they were entensively calculative). The problem was quite similar to the Normalization of Quantum Harmonic Oscillator (or some related quantum mechanical systems).
+I couldn't figure out how to solve those assignments. I asked Shashank about a point that, I doubt, I wasn't able to grasp. Ohhh... the pieces fell into their respective places. Flashback of Quantum Harmonic Oscillator starts. After a small discussion with Shashank, I was able to solve the normalization assignment quite easily (although it was entensively calculative). The problem was quite similar to the Normalization of Quantum Harmonic Oscillator (or some related quantum mechanical systems).
+
+---
+
+### July 13, 2020
+
+Completed the Linear Dispersion Relation assignment too. I came across pretty weird expressions which weren't linear at all. LOL!
+
+---
+
+### July 15, 2020
+
+A new assignment dealing woth KdV equations is here. Pretty tough, and I think, we should be quite comfortable with Linear Dispersion relation before attempting this one.
+
+---
+
+### July 16, 2020
+
+Submitted the KdV assignment. Was too lengthy. There were sooooo many equations to deal with simultaneously. It was easy but painfully hard, too many manipulations were to be done.
+
+---
+
+### July 18, 2020
+
+Project choosing portal opens. We chose one on the easy intermediate end as we didn't want it to be theoretically or computationally extensive. The one that we eneded up pick was quite easy. We had to derive KdV and LDRs for the given system : Dust Ion Plasma. Also, we'd to plot certain relations concerning the same.
+
+---
+
+### July 22, 2020
+
+I verified my DR and KdV calculations with Shashank's. Thank goodness, they finally matched!
+
+---
+
+### July 24, 2020
+
+Certain simplifications on the Linear Dispersion Relation. Plotting of DR begins. 
+My code (Python/Scilab) wasn't giving desired results, instead, it wasn't plotting the equation! I don't know why? 
+Shashank ended up plotting these, and I ended up typesetting our project.
+
+---
+
+### July 28, 2020
+
+Completed typesetting. Looks pretty awesome.
+
+---
+
+### July 30 - August 4, 2020
+
+We're looking for apt introduction and Results for our project.
+
+---
+
+### August 5, 2020
+
+So, I finally submitted dissertation today. And now, we have to start writing our paper that'd be published in the conference's journal.
+
+---
+
+### August 7, 2020
+
+First draft of conference paper is ready.
+
+---
+
+### August 26-28, 2020
+
+Finally, the conference paper is ready, got it verified by our Supervisor. It'd be out for publication soon. First Pulication. YAY!
+
+---
+
+### August 29, 2020
+
+We as a team also registered ourselves for a poster presentation. 
+
+---
+
+### September 3- 10, 2020
+
+The Plasma Colloquium begins (and ends). Was pretty enriching.
+
+---
+
+### Up Until Now
+
+Eagerly waiting for the publication to come out.
